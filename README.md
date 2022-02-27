@@ -25,9 +25,11 @@ Lane Detection
 
 [A Hybrid Spatial-temporal Sequence-to-one Neural Network Model for Lane Detection](https://arxiv.org/abs/2110.04079)
 
-[YOLOP: You Only Look Once for Panoptic Driving Perception](https://arxiv.org/abs/2108.11250)  [github](https://github.com/hustvl/YOLOP)
+[YOLOP: You Only Look Once for Panoptic Driving Perception](https://arxiv.org/abs/2108.11250)  [github](https://github.com/hustvl/YOLOP) 
+硬件：**Jetson Tx2，Zed Camera** 实时处理；系统：**未测试**（同时处理**目标检测，可驾驶区域分割**和**车道检测**三个任务）
 
 [VIL-100: A New Dataset and A Baseline Model for Video Instance Lane Detection](https://arxiv.org/abs/2108.08482)  [github](https://github.com/yujun0-0/MMA-Net)  [dataset](https://github.com/yujun0-0/MMA-Net)  ICCV 2021
+硬件：**GTX 2080Ti** ；系统：**Windows,Ubuntu**
 
 [ContinuityLearner: Geometric Continuity Feature Learning for Lane Segmentation](https://arxiv.org/abs/2108.03507)
 
@@ -38,6 +40,7 @@ Lane Detection
 [CondLaneNet: a Top-to-down Lane Detection Framework Based on Conditional Convolution](https://arxiv.org/abs/2105.05003)
 
 [Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection](https://arxiv.org/abs/2010.12035)  [github](https://github.com/lucastabelini/LaneATT)  CVPR 2021
+硬件：**GTX 2080Ti** ；系统：**Windows,Ubuntu**
 
 [YOLinO: Generic Single Shot Polyline Detection in Real Time](https://arxiv.org/abs/2103.14420)
 
@@ -50,6 +53,7 @@ Lane Detection
 ## 2020
 
 [End-to-end Lane Shape Prediction with Transformers](https://arxiv.org/abs/2011.04233)  [github](https://github.com/liuruijin17/LSTR)  WACV 2021
+硬件：**GTX 1080Ti** ；系统：**Ubuntu**
 
 [3D-LaneNet+: Anchor Free Lane Detection using a Semi-Local Representation](https://arxiv.org/abs/2011.01535)
 
